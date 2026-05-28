@@ -1,5 +1,5 @@
 # E-commerce-platform
-# Velora 🛒
+# Velora 
 
 ## Overview
 
