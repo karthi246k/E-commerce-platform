@@ -7,6 +7,14 @@ Velora is a full-stack e-commerce platform built to provide a seamless online sh
 
 ---
 
+## Source Code Notice 
+
+Source code is private and not publicly available.
+
+This repository is intended for showcasing project features, screenshots, and documentation only.
+
+---
+
 ## Features 
 
 * User authentication (Login / Register)
@@ -47,12 +55,3 @@ Velora is a full-stack e-commerce platform built to provide a seamless online sh
 * Dynamic cart operations
 * API-driven architecture
 * Responsive layouts
-
----
-
-## Source Code Notice 
-
-Source code is private and not publicly available.
-
-This repository is intended for showcasing project features, screenshots, and documentation only.
-
